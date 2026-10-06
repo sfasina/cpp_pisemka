@@ -1,0 +1,8 @@
+máš Mám se dobře.
+vytvořil Vytvořili mě na MENDELU.
+programovat Učím se C++.
+jmenuješ Jmenuji se ChatBot.
+počasí Počasí nesleduji, jsem jen program.
+ahoj Ahoj, na co se chceš zeptat?
+děkuji Rádo se stalo.
+funguješ Nemůžu ti toto tajemství prozradit.
