@@ -1,0 +1,6 @@
+K;kral;100
+Q;dama;9
+R;vez;5
+B;strelec;3
+N;kun;3
+P;pesec;1
