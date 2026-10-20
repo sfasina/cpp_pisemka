@@ -1,0 +1,16 @@
+Brno;21.5;63
+Praha;18.2;71
+Ostrava;24.8;45
+Plzen;22.1
+Olomouc;19.7;80
+Liberec;19,5;70
+Zlin;23.4;55;navic
+Jihlava;15.3;88
+Pardubice;20.0;60
+Opava;abc;50
+
+Kladno;26.1;40
+Usti;17.9;sedmdesat
+Hradec;22.6;66
+Most;-2.5;92
+Tabor;21.0;58

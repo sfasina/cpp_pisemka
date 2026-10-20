@@ -1,0 +1,16 @@
+pes;dog
+kocka;cat
+dum;house
+jablko;apple
+auto;car
+skola;school
+voda;water
+kniha;book
+okno;window
+strom;tree
+
+zmrzlina;ice cream
+pocitac;computer
+slunce;sun
+ptak;bird
+mesto;city

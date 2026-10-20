@@ -1,0 +1,18 @@
+Praha;50.08;14.42
+Brno;49.20;16.61
+Ostrava;49.82;18.26
+Plzen;49.74;13.38
+Olomouc;49.59;17.25
+Liberec;50.77;15.06
+Ceske Budejovice;48.97;14.47
+Hradec Kralove;50.21;15.83
+Usti nad Labem;50.66;14.03
+Pardubice;50.04;15.78
+Zlin;49.23
+Jihlava;49,40;15.59
+Viden;48.21;16.37
+Bratislava;48.15;17.11
+Drazdany;51.05;13.74
+
+Krakov;sever;19.94
+Katowice;50.26;19.02
