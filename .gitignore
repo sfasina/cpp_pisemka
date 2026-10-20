@@ -1,0 +1,12 @@
+# CLion
+.idea/
+cmake-build-*/
+
+# zkompilovane soubory
+*.exe
+*.o
+*.obj
+
+# vystupy programu
+wrong_words.txt
+vyber.txt
